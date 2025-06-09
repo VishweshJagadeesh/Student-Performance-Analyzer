@@ -12,6 +12,7 @@
 - Data Pre-Processing
 - Model Training
 - Selecting the best model
+  
 
 ## Sequence of steps followed until Deployment
 - Github and Code Set Up
@@ -22,6 +23,7 @@
 - Model Training and Model Evaluating Component
 - Model Hyper Parameter Tuning
 - Created Prediction Pipeline using Flask Web App
+- Deployment using elastic beanstalk and a CD CodePipeline to this repository using AWS
 
 ## Dataset
 - Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
@@ -71,7 +73,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Revanth-Reddy-Pingala/End_to_End_ML_Project_Student_Performance_Prediction
+  git clone https://github.com/VishweshJagadeesh/mlops_pipeline
 ```
 
 Go to the project directory
