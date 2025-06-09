@@ -23,6 +23,8 @@
 - Model Training and Model Evaluating Component
 - Model Hyper Parameter Tuning
 - Created Prediction Pipeline using Flask Web App
+
+## Deployment
 - Deployment using elastic beanstalk and a CD CodePipeline to this repository using AWS
 
 ## Dataset
