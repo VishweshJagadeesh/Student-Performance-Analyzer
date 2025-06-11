@@ -1,5 +1,5 @@
 
-# End_to_End_ML_Project_Student_Performance_Prediction
+# End to End ML Project Student Performance Prediction
 
 ## Problem statement
 - This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
@@ -25,7 +25,7 @@
 - Created Prediction Pipeline using Flask Web App
 
 ## Deployment
-- Deployment using elastic beanstalk and a CD CodePipeline to this repository using AWS
+- Deployment using elastic beanstalk and a CD CodePipeline to [this repository]{https://github.com/VishweshJagadeesh/student-deployment} using AWS
 
 ## Dataset
 - Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
