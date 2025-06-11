@@ -25,7 +25,7 @@
 - Created Prediction Pipeline using Flask Web App
 
 ## Deployment
-- Deployment using elastic beanstalk and a CD CodePipeline to [this repository]{https://github.com/VishweshJagadeesh/student-deployment} using AWS
+- Deployment using elastic beanstalk and a CD CodePipeline to [this repository](https://github.com/VishweshJagadeesh/student-deployment) using AWS
 
 ## Dataset
 - Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
